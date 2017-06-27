@@ -1,0 +1,17 @@
+// const getBody = (attributes: any) => {
+//   let body = '';
+
+//   Object.keys(attributes).map((key: string) => {
+//     let field:any = {};
+
+//     if (attributes[key].arrayFormat && attributes[key].array.length) {
+//       field[key] = attributes[key].array;
+//       body += `${queryString.stringify({ ...field }, { arrayFormat: attributes[key].arrayFormat })}&`;
+//     } else if (!attributes[key].arrayFormat) {
+//       field[key] = attributes[key];
+//       body += `${queryString.stringify({ ...field })}&`;
+//     }
+//   });
+
+//   return body;
+// }
