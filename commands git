@@ -1,2 +1,4 @@
 Clone git private: 
 git clone https://username:password@github.com/NAME/repo.git
+Reset uncommitted comments:
+git reset --hard HEAD
