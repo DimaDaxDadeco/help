@@ -1,4 +1,4 @@
 entry:
 FOOTER_BASE_URL=http://build-1930.frontend-footer.dev2.cian.ru/ HEADER_BASE_URL=http://build-1970.frontend-header.dev2.cian.ru/ CONTENT_BASE_URL=http://localhost:3005/ POLYFILLS_ASSETS_BASE_URL=https://cdn.cian.site/frontend/polyfills/ MAINPAGE_BASE_URL=http://localhost:3005/ yarn start
-localhost:
+content:
 REGIONS_API_HOST=master.dev.cian.ru API_HOST=build-1970.backend-content.dev2.cian.ru NODE_API_HOST=build-1970.backend-content.dev2.cian.ru PORT=3005 MAINPAGE_ASSETS_BASE_URL=http://localhost:3005/assets/ npm run start
