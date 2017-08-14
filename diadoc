@@ -1,0 +1,4 @@
+Сборка c#:
+diadoc\XCmd\build
+build-deps.cmd
+build_Sln.cmd
