@@ -3,6 +3,8 @@ diadoc\XCmd\build
 build-deps.cmd
 build_Sln.cmd
 
+.\.build-webpack.cmd
+
 Page for help:
 http://localhost.dev.kontur/caselist/
 
@@ -11,3 +13,4 @@ git:
 только после этого нужно будет делать git push --force
 потому что при простом пуше гит предложит тебе смерджить изменения с origin
 поэтому, если ты не один коммитишь в ветку, предупреждай коллегу о том, что собираешь на мастер заребейзить ветку
+и еще: текущую ветку обновляй через git pull --rebase, чтобы в ветке не было мерджей
