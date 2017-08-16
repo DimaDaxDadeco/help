@@ -17,3 +17,9 @@ git:
 
 rum hostmaster:
 .\run-singlehost.cmd
+
+Диадок за статикой на дев сервер:
+WebpackEntryResolverSettings
+UseDevServer: true
+
+в режиме мемори подхватывать w3
