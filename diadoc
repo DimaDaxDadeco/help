@@ -27,3 +27,7 @@ UseDevServer: true
 Режимы:
 XCmd/setup/take-localhost-in-memory-settings.cmd
 XCmd/setup/take-localhost-settings.cmd
+
+Переводы:
+XCmd/localizer.cmd
+cloc~ строка ~cloc
