@@ -31,6 +31,9 @@ XCmd/setup/take-localhost-settings.cmd
 Переводы:
 XCmd/localizer.cmd
 cloc~ строка ~cloc
+locales - тут храняться переводы
 
 Обновить AppSCriptsGet:
 XCmd/gen-js.cmd
+
+
