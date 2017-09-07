@@ -32,6 +32,7 @@ XCmd/setup/take-localhost-settings.cmd
 XCmd/localizer.cmd
 cloc~ строка ~cloc
 cloc~{0} {0:1*|Эта организация проверяла|Эти организации проверяли}~cloc
+localization.js - функция переводов
 locales - тут храняться переводы
 
 Обновить AppSCriptsGet:
