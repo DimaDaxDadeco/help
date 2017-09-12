@@ -48,5 +48,6 @@ git pull origin master --rebase
 git checkout <branch>
 git rebase master
 git push --force
+https://tc.skbkontur.ru/project.html?projectId=Diadoc_DiadocMain
 https://monosnap.com/file/xBNbHatTjUGX4IIpUaLMmOYzDNw35F
 
