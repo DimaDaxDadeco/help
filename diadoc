@@ -1,7 +1,6 @@
 Сборка c#:
-diadoc\XCmd\build
-build-deps.cmd
-build_Sln.cmd
+XCmd\build\build-deps.cmd
+XCmd\build\build_Sln.cmd
 
 .\.build-webpack.cmd
 
