@@ -51,3 +51,5 @@ git push --force
 https://tc.skbkontur.ru/project.html?projectId=Diadoc_DiadocMain
 Инструкция (тесты): https://monosnap.com/file/xBNbHatTjUGX4IIpUaLMmOYzDNw35F
 На прод: http://joxi.ru/E2pKRQPIBxnvlm
+
+?debug=true - перестать минифицровать js
