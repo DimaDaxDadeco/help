@@ -53,3 +53,11 @@ https://tc.skbkontur.ru/project.html?projectId=Diadoc_DiadocMain
 На прод: http://joxi.ru/E2pKRQPIBxnvlm
 
 ?debug=true - перестать минифицровать js
+
+
+
+Запустить 
+reshaper
+full.sln
+ctrl+n -> SendAccSert552_Test 
+SignCommand.js - отвечает за шаги подписания
