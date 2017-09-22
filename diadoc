@@ -58,6 +58,10 @@ https://tc.skbkontur.ru/project.html?projectId=Diadoc_DiadocMain
 
 Запустить 
 reshaper
-full.sln
-ctrl+n -> SendAccSert552_Test 
+
+SendAccSert552_Test 
 SignCommand.js - отвечает за шаги подписания
+visual studio:
+ctrl+shift+b - билд
+_Src/full.sln
+Reshaper/untiTets/unit test sessions
