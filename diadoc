@@ -54,13 +54,7 @@ https://tc.skbkontur.ru/project.html?projectId=Diadoc_DiadocMain
 
 ?debug=true - перестать минифицровать js
 
-
-
-Запустить 
-reshaper
-
 SendAccSert552_Test 
-SignCommand.js - отвечает за шаги подписания
 visual studio:
 ctrl+shift+b - билд
 _Src/full.sln
