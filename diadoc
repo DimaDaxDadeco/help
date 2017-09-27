@@ -38,6 +38,7 @@ locales - тут храняться переводы
 XCmd/gen-js.cmd
 
 WhiteLabel режим:
+.build-webpack.cmd --whiteLabel
 npm start -- --whitelabel
 localization-v2.config - доступные урлы
 Добавить их в hosts
