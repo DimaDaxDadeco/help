@@ -1,6 +1,6 @@
 Сборка c#:
-XCmd\build\build-deps.cmd
-XCmd\build\build_Sln.cmd
+Set-ExecutionPolicy RemoteSigned
+.\build.ps1 -SkipBuildWebpack
 
 .\.build-webpack.cmd
 
