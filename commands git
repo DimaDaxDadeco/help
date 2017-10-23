@@ -8,3 +8,4 @@ git reset --hard HEAD
 
 REBASE:
 git reset --soft <hash последнего **не моего** коммита> - отменить коммит
+rebase —onto main-header HASH-LAST-COMMIT-MAIN-HEADER - назначить для ребейза head
