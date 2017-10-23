@@ -5,7 +5,7 @@ git reset --hard HEAD
 Change end of line:
 git rm -rf --cached .
 git reset --hard HEAD
+git reset --soft <hash последнего **не моего** коммита> - отменить коммит
 
 REBASE:
-git reset --soft <hash последнего **не моего** коммита> - отменить коммит
 git rebase --onto main-header HASH-LAST-COMMIT-MAIN-HEADER - назначить для ребейза head
