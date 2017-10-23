@@ -5,3 +5,6 @@ git reset --hard HEAD
 Change end of line:
 git rm -rf --cached .
 git reset --hard HEAD
+
+REBASE:
+git reset --soft <hash последнего **не моего** коммита> - отменить коммит
