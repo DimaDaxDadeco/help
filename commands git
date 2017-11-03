@@ -1,7 +1,9 @@
 Clone git private: 
 git clone https://username:password@github.com/NAME/repo.git
+
 Reset uncommitted comments:
 git reset --hard HEAD
+
 Change end of line:
 git rm -rf --cached .
 git reset --hard HEAD
@@ -9,3 +11,5 @@ git reset --soft <hash последнего **не моего** коммита> 
 
 REBASE:
 git rebase --onto main-header HASH-LAST-COMMIT-MAIN-HEADER - назначить для ребейза head
+
+git commit -m "message" --no-verify
