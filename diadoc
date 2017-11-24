@@ -63,3 +63,7 @@ Reshaper/untiTets/unit test sessions
 
 сертификаты:
 http://vm-easycert1:8080/
+
+
+Routing:
+Смена пароля: /RestorePassword
