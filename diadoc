@@ -55,6 +55,8 @@ https://tc.skbkontur.ru/project.html?projectId=Diadoc_DiadocMain
 
 ?debug=true - перестать минифицровать js
 
+Тесты:
+Запускать в inMemory. Студия под админом
 SendAccSert552_Test 
 visual studio:
 ctrl+shift+b - билд
