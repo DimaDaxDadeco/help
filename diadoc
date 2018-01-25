@@ -24,8 +24,8 @@ UseDevServer: true
 в режиме мемори подхватывать w3
 
 Режимы:
-XCmd/setup/take-localhost-in-memory-settings.cmd
-XCmd/setup/take-localhost-settings.cmd
+XCmd/setup/copy-inmemory-settings.cmd
+XCmd/setup/copy-real-settings.cmd
 
 Переводы:
 XCmd/localizer.cmd
