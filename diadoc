@@ -57,11 +57,13 @@ https://tc.skbkontur.ru/project.html?projectId=Diadoc_DiadocMain
 
 Тесты:
 Запускать в inMemory. Студия под админом
-SendAccSert552_Test 
 visual studio:
 ctrl+shift+b - билд
 _Src/full.sln
 Reshaper/untiTets/unit test sessions
+Найти тесты для объекта (CounteragentsPage): right click => find usages
+Потом можно кликнуть по тестам(внизу) и добавить их в сессию
+Просмотреть методы объекта: right click => go to implementation
 
 сертификаты:
 http://vm-easycert1:8080/
