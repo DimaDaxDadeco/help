@@ -71,3 +71,6 @@ http://vm-easycert1:8080/
 
 Routing:
 Смена пароля: /RestorePassword
+
+wdio:
+browser.executeAsync(done => setTimeout(done, 20000)); - delay for test
