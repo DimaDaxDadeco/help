@@ -74,3 +74,9 @@ Routing:
 
 wdio:
 browser.executeAsync(done => setTimeout(done, 20000)); - delay for test
+
+массовые действия:
+Я беру ИНН тестовой в диадоке: 9616675014, любой валидный roamingFnsId (неначинающийся с 2BM-), ИНН-КПП роумингу даю эти: ИНН
+    6673210179
+КПП
+    668501001
