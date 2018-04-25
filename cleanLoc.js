@@ -15,8 +15,8 @@ const search = startPath => {
 
     if (
       filePath.includes('node_modules') || 
-      filePath.includes('build') || 
-      filePath.includes('combine')
+      filePath.includes('build/') || 
+      filePath.includes('combine/')
     ) {
       return;
     }
