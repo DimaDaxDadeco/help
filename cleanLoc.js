@@ -13,7 +13,11 @@ const search = startPath => {
     const filePath = path.join(startPath, endPath);
     const stats = fs.statSync(filePath);
 
-    if (filePath.includes('node_modules')) {
+    if (
+      filePath.includes('node_modules') || 
+      filePath.includes('build') || 
+      filePath.includes('combine')
+    ) {
       return;
     }
 
